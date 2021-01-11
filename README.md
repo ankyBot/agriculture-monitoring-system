@@ -15,7 +15,7 @@ This is my Major project
 
 6)Buzzer Alarm
 
-Step 5: Arduino code
+Step 1: Arduino code
 
 [
 
