@@ -40,16 +40,16 @@ E.GSM Shield The GSM Shield is used as a method of communication in this propose
 
 The Farm Monitoring System can be used for destiny factors of agriculture. This would be a relief for farmers since it decreases the load of manual efforts A gadget to screen moisture levels within the soil changed into constructed and the assignment furnished an possibility to take a look at the prevailing structures, at the side of their features anddownsides. The stated gadget may be used to turn on/off the water sprinkler in keeping with soil moisture levels thereby automating the technique of irrigation that is one of the most time ingesting activities in farming. Agriculture is one of the most effort-consuming hobby. The device makes use of statistics from soil moisture sensors to irrigate soil FUTURE SCOPE The proposed assignment may be further greater with the aid of including pump to the machine to facilitate computerized irrigation. The automated irrigation device may be triggered when the moisture content of the soil is going under the brink stage. The threshold degree can be decided in the code written for Arduino. So whenever the fee for moisture goes under the brink degree, the pump gets mechanically on and irrigation is performed to an ok degree.To improve the efficiency and effectiveness of the machine, the noted recommendations can be placed into attention. Alternative of controlling the water pump may be given to the farmer by way of which they are able to turn on or off the pump to be able to start or prevent the manner of irrigation without being there on farm at that gift time. The farmer can know earlier about the negative climate situations. In such instances farmer might also want to forestall the machine remotely or routinely. The concept of the usage of IOT for irrigation can be prolonged in addition to other tasks in farming together with farm animals management, fireplace detection and climate manage.This could limit human intervention in farming sports. #For opening
 
-Download Arduino Ide from https://www.arduino.cc/en/Main/Software .
-Import the DHT ,GSM_GPRS_GPS_Shield_GSMSHIELD libraries(copy and paste the folder to the library folder of the directory of your arduino ide).
-open the arduino_code.ino file .
+  1.Download Arduino Ide from https://www.arduino.cc/en/Main/Software .
+  2.Import the DHT ,GSM_GPRS_GPS_Shield_GSMSHIELD libraries(copy and paste the folder to the library folder of the directory of your arduino ide).
+  3.open the arduino_code.ino file .
 
 
 
 
 
 
-Step 1: Arduino code
+ Arduino code :
 
 [
 
